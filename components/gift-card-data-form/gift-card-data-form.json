@@ -1,0 +1,101 @@
+{
+    "fields": {
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 240
+        },
+        "dateLabel": {
+            "id": "dateLabel",
+            "type": "text",
+            "label": "Date Label",
+            "value": "Date",
+            "singular": null
+        },
+        "timeLabel": {
+            "id": "timeLabel",
+            "type": "text",
+            "label": "Time Label",
+            "value": "Select Time",
+            "singular": null
+        },
+        "dataHeader": {
+            "id": "dataHeader",
+            "type": "text",
+            "label": "Header",
+            "value": "This charity gift card will be emailed to your recipient.",
+            "singular": null
+        },
+        "emailSubject": {
+            "id": "emailSubject",
+            "type": "text",
+            "label": "Email Subject",
+            "value": "Hello {recipientName}, {sender} has sent you a BuddyCard",
+            "singular": null
+        },
+        "messageLabel": {
+            "id": "messageLabel",
+            "type": "text",
+            "label": "Message Label",
+            "value": "Message",
+            "singular": null
+        },
+        "errorMsgNoMatch": {
+            "id": "errorMsgNoMatch",
+            "type": "text",
+            "label": "Error Message: Emails Don't Match",
+            "value": "Emails must match",
+            "singular": null
+        },
+        "senderNameLabel": {
+            "id": "senderNameLabel",
+            "type": "text",
+            "label": "Sender Name Label",
+            "value": "Who is the sender? (This will show in the email subject line)",
+            "singular": null
+        },
+        "recipientNameLabel": {
+            "id": "recipientNameLabel",
+            "type": "text",
+            "label": "Recipient Name Label",
+            "value": "Recipient Name",
+            "singular": null
+        },
+        "recipientEmailLabel": {
+            "id": "recipientEmailLabel",
+            "type": "text",
+            "label": "Recipient Email Label",
+            "value": "Recipient Email",
+            "singular": null
+        },
+        "timingDropdownLabel": {
+            "id": "timingDropdownLabel",
+            "type": "text",
+            "label": "Timing Dropdown Label",
+            "value": "Select Date",
+            "singular": null
+        },
+        "donationCheckboxLabel": {
+            "id": "donationCheckboxLabel",
+            "type": "text",
+            "label": "Donation Checkbox Label",
+            "value": "Show donation amount on BuddyCard?",
+            "singular": null
+        },
+        "errorMsgInvalidFormat": {
+            "id": "errorMsgInvalidFormat",
+            "type": "text",
+            "label": "Error Message: Invalid Email Format",
+            "value": "Invalid email",
+            "singular": null
+        },
+        "confirmRecipientEmailLabel": {
+            "id": "confirmRecipientEmailLabel",
+            "type": "text",
+            "label": "Confirm Recipient Email Label",
+            "value": "Confirm Recipient Email",
+            "singular": null
+        }
+    },
+    "uuid": "3350c930-271d-11ec-b5b0-ff91a2eb4f6f"
+}

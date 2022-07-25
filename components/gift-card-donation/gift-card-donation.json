@@ -1,0 +1,52 @@
+{
+    "fields": {
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 129
+        },
+        "thankYouTitle": {
+            "id": "thankYouTitle",
+            "type": "text",
+            "label": "Thank You Title",
+            "value": "Thank you",
+            "singular": null
+        },
+        "thankYouMessage": {
+            "id": "thankYouMessage",
+            "type": "textarea",
+            "label": "Thank You Message",
+            "value": "Thank you so much [donation.firstName] for giving the gift of light",
+            "singular": null
+        },
+        "sendAnotherCardButtonLabel": {
+            "id": "sendAnotherCardButtonLabel",
+            "type": "text",
+            "label": "Send Another Card Button Label",
+            "value": "Send Another Card",
+            "singular": null
+        },
+        "sendAnotherCardButtonPosition": {
+            "id": "sendAnotherCardButtonPosition",
+            "type": "select",
+            "label": "Send Another Card Button Position",
+            "value": "Center",
+            "options": [
+                {
+                    "label": "Left",
+                    "value": "left"
+                },
+                {
+                    "label": "Center",
+                    "value": "center"
+                },
+                {
+                    "label": "Right",
+                    "value": "right"
+                }
+            ],
+            "singular": null
+        }
+    },
+    "uuid": "6bdb6d00-271d-11ec-9702-6f50aff76802"
+}

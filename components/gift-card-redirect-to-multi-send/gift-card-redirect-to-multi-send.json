@@ -1,0 +1,45 @@
+{
+    "fields": {
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 23
+        },
+        "redirectButtonLabel": {
+            "id": "redirectButtonLabel",
+            "type": "text",
+            "label": "Redirect Button Label",
+            "value": "Click here if you would prefer to send many BuddyCards at once",
+            "singular": null
+        },
+        "sendMultiRedirectURL": {
+            "id": "sendMultiRedirectURL",
+            "type": "text",
+            "label": "Redirect URL",
+            "value": "sendmultiple",
+            "singular": null
+        },
+        "giftCardRedirectButtonPosition": {
+            "id": "giftCardRedirectButtonPosition",
+            "type": "select",
+            "label": "Button Position",
+            "value": "center",
+            "options": [
+                {
+                    "label": "Left",
+                    "value": "left"
+                },
+                {
+                    "label": "Center",
+                    "value": "center"
+                },
+                {
+                    "label": "Right",
+                    "value": "right"
+                }
+            ],
+            "singular": null
+        }
+    },
+    "uuid": "6f3f0f90-5a50-11ec-85f0-654fbe6b3dcd"
+}

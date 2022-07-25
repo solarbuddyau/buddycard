@@ -1,0 +1,192 @@
+{
+    "fields": {
+        "header": {
+            "id": "header",
+            "type": "text",
+            "label": "Header",
+            "value": "This charity gift card will be emailed to your recipient(s).",
+            "singular": null
+        },
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 423
+        },
+        "dateLabel": {
+            "id": "dateLabel",
+            "type": "text",
+            "label": "Date Label",
+            "value": "Date",
+            "singular": null
+        },
+        "timeLabel": {
+            "id": "timeLabel",
+            "type": "text",
+            "label": "Time Label",
+            "value": "Select Time",
+            "singular": null
+        },
+        "emailSubject": {
+            "id": "emailSubject",
+            "type": "text",
+            "label": "Email Subject",
+            "value": "Hello Recipient, {sender} has sent you a BuddyCard",
+            "singular": null
+        },
+        "messageLabel": {
+            "id": "messageLabel",
+            "type": "text",
+            "label": "Message Label",
+            "value": "Message",
+            "singular": null
+        },
+        "errorCSVParse": {
+            "id": "errorCSVParse",
+            "type": "textarea",
+            "label": "Error Message: CSV Parse Error",
+            "value": "An issue occurred when reading your CSV file. Please make sure to follow the provided template.",
+            "singular": null
+        },
+        "uploadCSVFile": {
+            "id": "uploadCSVFile",
+            "type": "textarea",
+            "label": "Upload CSV File",
+            "value": "Click here to upload your completed CSV file (limit of 100 emails can be sent at a time)",
+            "singular": null
+        },
+        "uploadMessage": {
+            "id": "uploadMessage",
+            "type": "textarea",
+            "label": "Upload Message",
+            "value": "You can also upload a list of recipients as a CSV file",
+            "singular": null
+        },
+        "csvTemplateName": {
+            "id": "csvTemplateName",
+            "type": "text",
+            "label": "CSV Template Name",
+            "value": "CSV Template",
+            "singular": null
+        },
+        "errorMsgNoMatch": {
+            "id": "errorMsgNoMatch",
+            "type": "text",
+            "label": "Error Message: Emails Don't Match",
+            "value": "Emails must match",
+            "singular": null
+        },
+        "senderNameLabel": {
+            "id": "senderNameLabel",
+            "type": "text",
+            "label": "Sender Name Label",
+            "value": "Who is the sender? (This will show in the email subject line)",
+            "singular": null
+        },
+        "addRecipientLabel": {
+            "id": "addRecipientLabel",
+            "type": "text",
+            "label": "Add Recipient Label",
+            "value": "Add Recipient",
+            "singular": null
+        },
+        "errorTooManyEmails": {
+            "id": "errorTooManyEmails",
+            "type": "textarea",
+            "label": "Error Message: Too Many Emails",
+            "value": "Email entry not added, only 100 emails can be sent per donation.",
+            "singular": null
+        },
+        "hideFullListButton": {
+            "id": "hideFullListButton",
+            "type": "text",
+            "label": "Hide Full List Button",
+            "value": "▲ Hide full list",
+            "singular": null
+        },
+        "recipientNameLabel": {
+            "id": "recipientNameLabel",
+            "type": "text",
+            "label": "Recipient Name Label",
+            "value": "Recipient Name",
+            "singular": null
+        },
+        "showFullListButton": {
+            "id": "showFullListButton",
+            "type": "text",
+            "label": "Show Full List Button",
+            "value": "▼ Show full list",
+            "singular": null
+        },
+        "currencySelectLabel": {
+            "id": "currencySelectLabel",
+            "type": "text",
+            "label": "Currency Select Label",
+            "value": "Currency",
+            "singular": null
+        },
+        "donationAmountLabel": {
+            "id": "donationAmountLabel",
+            "type": "text",
+            "label": "Donation Amount Label",
+            "value": "Donation amount per ecard?",
+            "singular": null
+        },
+        "downloadCSVTemplate": {
+            "id": "downloadCSVTemplate",
+            "type": "textarea",
+            "label": "Download CSV Template",
+            "value": "Click here to download a CSV template",
+            "singular": null
+        },
+        "recipientEmailLabel": {
+            "id": "recipientEmailLabel",
+            "type": "text",
+            "label": "Recipient Email Label",
+            "value": "Recipient Email",
+            "singular": null
+        },
+        "timingDropdownLabel": {
+            "id": "timingDropdownLabel",
+            "type": "text",
+            "label": "Timing Dropdown Label",
+            "value": "Select Date",
+            "singular": null
+        },
+        "donationCheckboxLabel": {
+            "id": "donationCheckboxLabel",
+            "type": "text",
+            "label": "Donation Checkbox Label",
+            "value": "Show donation amount on BuddyCard?",
+            "singular": null
+        },
+        "errorMsgInvalidFormat": {
+            "id": "errorMsgInvalidFormat",
+            "type": "text",
+            "label": "Error Message: Invalid Email Format",
+            "value": "Invalid email",
+            "singular": null
+        },
+        "errorListStringsTooLong": {
+            "id": "errorListStringsTooLong",
+            "type": "textarea",
+            "label": "Error Message: List Strings Too Long",
+            "value": "The length of names and emails is too long to send, you can try shortening names to use first name only or send in smaller batches of emails.",
+            "singular": null
+        },
+        "downloadCSVTemplateLabel": {
+            "id": "downloadCSVTemplateLabel",
+            "type": "text",
+            "label": "Download CSV Template Label",
+            "value": "Download CSV Template",
+            "singular": null
+        },
+        "confirmRecipientEmailLabel": {
+            "id": "confirmRecipientEmailLabel",
+            "type": "text",
+            "label": "Confirm Recipient Email Label",
+            "value": "Confirm Recipient Email",
+            "singular": null
+        }
+    },
+    "uuid": "76197dd0-2be5-11ec-9606-d1130131b568"
+}

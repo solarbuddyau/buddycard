@@ -1,0 +1,122 @@
+{
+    "fields": {
+        "para1": {
+            "id": "para1",
+            "type": "textarea",
+            "label": "Paragraph 1",
+            "value": "This SolarBuddy charity gift card means a donation {donation_amount}has been made, in your honour, to give the gift of light to children living with no access to safe and reliable electricity.",
+            "singular": null
+        },
+        "para2": {
+            "id": "para2",
+            "type": "textarea",
+            "label": "Paragraph 2",
+            "value": "This gift will transform lives. It will give the opportunity to study after the sun sets and means there'll be cleaner air to breathe as toxic alternative lighting like kerosene lamps will not be needed. Visit solarbuddy.org to learn more about ending energy poverty.",
+            "singular": null
+        },
+        "title": {
+            "id": "title",
+            "type": "textarea",
+            "label": "Title",
+            "value": "The Gift of Light has been given in your name!",
+            "singular": null
+        },
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 140
+        },
+        "previewButton": {
+            "id": "previewButton",
+            "type": "text",
+            "label": "Preview Button",
+            "value": "Preview",
+            "singular": null
+        },
+        "buttonPosition": {
+            "id": "buttonPosition",
+            "type": "select",
+            "label": "Button Position",
+            "value": "Center",
+            "options": [
+                {
+                    "label": "Left",
+                    "value": "left"
+                },
+                {
+                    "label": "Center",
+                    "value": "center"
+                },
+                {
+                    "label": "Right",
+                    "value": "right"
+                }
+            ],
+            "singular": null
+        },
+        "solarBuddyLogo": {
+            "id": "solarBuddyLogo",
+            "type": "image",
+            "label": "SolarBuddy Logo",
+            "value": "",
+            "singular": null
+        },
+        "sendLetterTitle": {
+            "id": "sendLetterTitle",
+            "type": "textarea",
+            "label": "Send Letter Title",
+            "value": "Send a letter of encouragement",
+            "singular": null
+        },
+        "chooseNewImageURL": {
+            "id": "chooseNewImageURL",
+            "type": "text",
+            "label": "Choose New Image URL",
+            "value": "",
+            "singular": null
+        },
+        "thankYouParagraph": {
+            "id": "thankYouParagraph",
+            "type": "textarea",
+            "label": "Thank You Paragraph",
+            "value": "Thank you for sharing the Gift of Light with children across the world! This gift will be life-changing for the children, their families and their community.",
+            "singular": null
+        },
+        "previewHeaderNoName": {
+            "id": "previewHeaderNoName",
+            "type": "textarea",
+            "label": "Preview Header, no Name",
+            "value": "Here's what we'll send:",
+            "singular": null
+        },
+        "sendLetterParagraph": {
+            "id": "sendLetterParagraph",
+            "type": "textarea",
+            "label": "Send Letter Paragraph",
+            "value": "Every solar light that is gifted to a child comes with a personalised letter written by the light-giver. We would love for you to write a letter to your SolarBuddy. Click the button below to send your message.",
+            "singular": null
+        },
+        "chooseANewImageButton": {
+            "id": "chooseANewImageButton",
+            "type": "text",
+            "label": "Choose A New Image Button",
+            "value": "Choose a new image",
+            "singular": null
+        },
+        "previewHeaderWithName": {
+            "id": "previewHeaderWithName",
+            "type": "textarea",
+            "label": "Preview Header, with Name",
+            "value": "Here's what we'll send to {name}:",
+            "singular": null
+        },
+        "sendLetterButtonLabel": {
+            "id": "sendLetterButtonLabel",
+            "type": "text",
+            "label": "Send Letter Button Label",
+            "value": "Write to your Buddy",
+            "singular": null
+        }
+    },
+    "uuid": "fcf365a0-271c-11ec-9038-457afd7abc6f"
+}
