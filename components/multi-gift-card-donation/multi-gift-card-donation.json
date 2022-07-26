@@ -1,0 +1,73 @@
+{
+    "fields": {
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 218
+        },
+        "step1heading": {
+            "id": "step1heading",
+            "type": "textarea",
+            "label": "Step 1 Heading",
+            "value": "What amount would you like to send per card?",
+            "singular": null
+        },
+        "thankYouTitle": {
+            "id": "thankYouTitle",
+            "type": "text",
+            "label": "Thank You Title",
+            "value": "Thank you",
+            "singular": null
+        },
+        "thankYouMessage": {
+            "id": "thankYouMessage",
+            "type": "textarea",
+            "label": "Thank You Message",
+            "value": "Thank you so much [donation.firstName] for giving the gift of light",
+            "singular": null
+        },
+        "fillOutFieldsMessage": {
+            "id": "fillOutFieldsMessage",
+            "type": "textarea",
+            "label": "Please Fill Out Required Fields Message",
+            "value": "Please complete required fields in form.",
+            "singular": null
+        },
+        "donoAgreementCheckbox": {
+            "id": "donoAgreementCheckbox",
+            "type": "textarea",
+            "label": "Donation Agreement Checkbox Message",
+            "value": "By checking this box you are stating that all names, email addresses, and messaging is correct. There is no way to change any of this information after the donation has been made.",
+            "singular": null
+        },
+        "sendAnotherCardButtonLabel": {
+            "id": "sendAnotherCardButtonLabel",
+            "type": "text",
+            "label": "Send Another Card Button Label",
+            "value": "Send More Cards",
+            "singular": null
+        },
+        "sendAnotherCardButtonPosition": {
+            "id": "sendAnotherCardButtonPosition",
+            "type": "select",
+            "label": "Send Another Card Button Position",
+            "value": "Center",
+            "options": [
+                {
+                    "label": "Left",
+                    "value": "left"
+                },
+                {
+                    "label": "Center",
+                    "value": "center"
+                },
+                {
+                    "label": "Right",
+                    "value": "right"
+                }
+            ],
+            "singular": null
+        }
+    },
+    "uuid": "6e0d6700-2be5-11ec-96a0-8560b3fdeb39"
+}

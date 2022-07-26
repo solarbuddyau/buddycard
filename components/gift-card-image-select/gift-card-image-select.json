@@ -1,0 +1,150 @@
+{
+    "fields": {
+        "img1": {
+            "id": "img1",
+            "type": "image",
+            "label": "Image 1",
+            "value": "",
+            "singular": null
+        },
+        "img2": {
+            "id": "img2",
+            "type": "image",
+            "label": "Image 2",
+            "value": "",
+            "singular": null
+        },
+        "img3": {
+            "id": "img3",
+            "type": "image",
+            "label": "Image 3",
+            "value": "",
+            "singular": null
+        },
+        "img4": {
+            "id": "img4",
+            "type": "image",
+            "label": "Image 4",
+            "value": "",
+            "singular": null
+        },
+        "img5": {
+            "id": "img5",
+            "type": "image",
+            "label": "Image 5",
+            "value": "",
+            "singular": null
+        },
+        "img6": {
+            "id": "img6",
+            "type": "image",
+            "label": "Image 6",
+            "value": "",
+            "singular": null
+        },
+        "img7": {
+            "id": "img7",
+            "type": "image",
+            "label": "Image 7",
+            "value": "",
+            "singular": null
+        },
+        "img8": {
+            "id": "img8",
+            "type": "image",
+            "label": "Image 8",
+            "value": "",
+            "singular": null
+        },
+        "img9": {
+            "id": "img9",
+            "type": "image",
+            "label": "Image 9",
+            "value": "",
+            "singular": null
+        },
+        "text1": {
+            "id": "text1",
+            "type": "textarea",
+            "label": "Image Text 1",
+            "value": "",
+            "singular": null
+        },
+        "text2": {
+            "id": "text2",
+            "type": "textarea",
+            "label": "Image Text 2",
+            "value": "",
+            "singular": null
+        },
+        "text3": {
+            "id": "text3",
+            "type": "textarea",
+            "label": "Image Text 3",
+            "value": "",
+            "singular": null
+        },
+        "text4": {
+            "id": "text4",
+            "type": "textarea",
+            "label": "Image Text 4",
+            "value": "",
+            "singular": null
+        },
+        "text5": {
+            "id": "text5",
+            "type": "textarea",
+            "label": "Image Text 5",
+            "value": "",
+            "singular": null
+        },
+        "text6": {
+            "id": "text6",
+            "type": "textarea",
+            "label": "Image Text 6",
+            "value": "",
+            "singular": null
+        },
+        "text7": {
+            "id": "text7",
+            "type": "textarea",
+            "label": "Image Text 7",
+            "value": "",
+            "singular": null
+        },
+        "text8": {
+            "id": "text8",
+            "type": "textarea",
+            "label": "Image Text 8",
+            "value": "",
+            "singular": null
+        },
+        "text9": {
+            "id": "text9",
+            "type": "textarea",
+            "label": "Image Text 9",
+            "value": "",
+            "singular": null
+        },
+        "header": {
+            "id": "header",
+            "type": "text",
+            "label": "Header",
+            "value": "Choose an image for your BuddyCard",
+            "singular": null
+        },
+        "version": {
+            "type": "number",
+            "label": "Current Version of Component",
+            "value": 34
+        },
+        "secondPageAddress": {
+            "id": "secondPageAddress",
+            "type": "text",
+            "label": "Second Page Address",
+            "value": "buddycardyourdetails",
+            "singular": null
+        }
+    },
+    "uuid": "ca3ad1b0-271d-11ec-9702-6f50aff76802"
+}

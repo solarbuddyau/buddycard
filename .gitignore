@@ -1,0 +1,19 @@
+# Raisely specific
+.raisely.json
+
+# Dependencies
+node_modules
+
+# OS Metadata / User Configuration
+.DS_Store
+
+# Ide not shareable
+.idea
+.vscode
+.vs
+*.sln
+*.njsproj
+*.njsproj.user
+*.iml
+bin/*.dll
+obj
