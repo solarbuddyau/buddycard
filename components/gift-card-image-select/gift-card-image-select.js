@@ -9,8 +9,6 @@
   const imgHeight = imgWidth * (650 / 900); // preserved size ratio to match email
   const maxWidth = (imgWidth * 3) + (marginX * 6);
 
-  const nuHeader = header + ":";
-
   const StyledContainer = styled("div")`
     margin: auto;
   `;
@@ -72,7 +70,7 @@
 
   return (
     <StyledContainer>
-      <HeaderContainer>{nuHeader}</HeaderContainer>
+      <HeaderContainer>{header}</HeaderContainer>
       <ImageContainerRow>
         <BroadcasterImg src={img1} desc={text1}/>
         <BroadcasterImg src={img2} desc={text2}/>
